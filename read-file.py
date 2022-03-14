@@ -10,3 +10,5 @@ while status == True:
     lezen = bestand.readline()
     print(lezen)
 
+
+
